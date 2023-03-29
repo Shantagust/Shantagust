@@ -2,7 +2,7 @@
 
 - 🌱 I’m current middle python developer 
 - 📫 How to reach me: 
-  - <a href='instagram.com/purple_evoix/'>Instagram</a>
+  - <a href='https://instagram.com/purple_evoix/'>Instagram</a>
   - <a href='https://www.linkedin.com/in/ihor-molchanov/'>LinkedIn</a>
   
 <!--
